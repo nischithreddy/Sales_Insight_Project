@@ -15,7 +15,8 @@ After the initial report reviewed by the stakeholders, made changes to the repor
 
 ## Final Result
   ### Initial dashboard
-  ![Screenshot (251)](https://github.com/nischithreddy/Sales_Insight_Project/assets/105610815/9d4d5481-63c2-471d-9266-7213a54d452e)
+  ![Screenshot (254)](https://github.com/nischithreddy/Sales_Insight_Project/assets/105610815/ed4da97f-d1de-44b8-bc1d-01b61beaabae)
 
   ### Updated dashboard
-  ![Screenshot (250)](https://github.com/nischithreddy/Sales_Insight_Project/assets/105610815/b59e6b3b-7343-4d5d-800b-46326fc9d5c4)
+  ![Screenshot (255)](https://github.com/nischithreddy/Sales_Insight_Project/assets/105610815/0ba1c20f-e33d-48f2-b04b-54926b47e336)
+
