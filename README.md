@@ -10,7 +10,7 @@ Building a PowerBI Dashboard for converting the data into visual representation 
 - Connected the SQL data set to PowerBI.
 - Performed ETL and data cleaning on the imported data.
 - In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
-- Created measures for needs and used them for creating visuals in PowerBi.
+- Created measures for needs and used them for creating visuals in Power BI.
 - After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
 
 ## Final Result
