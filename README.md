@@ -18,7 +18,7 @@ Building a PowerBI Dashboard for converting the data into visual representation 
   ![Screenshot (254)](https://github.com/nischithreddy/Sales_Insight_Project/assets/105610815/ed4da97f-d1de-44b8-bc1d-01b61beaabae)
 
   ### Updated dashboard
-  ![Screenshot (255)](https://github.com/nischithreddy/Sales_Insight_Project/assets/105610815/0ba1c20f-e33d-48f2-b04b-54926b47e336)
+  ![Screenshot (260)](https://github.com/nischithreddy/Sales_Insight_Project/assets/105610815/97f48e7e-b393-4fd6-ab53-0d6ce987fc54)
 
 ## Key Insights:
 - The market that generated the highest revenue is Delhi by 52.76% of the total revenue with an overall profit generated of 48.48%.
